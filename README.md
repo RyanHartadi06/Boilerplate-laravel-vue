@@ -1,6 +1,3 @@
-# SIER HCMS
-HCMS - PT Surabaya Industrial Estate Rungkut
-
 ## Requirement
 -   Laravel 10+
 -   NPM
